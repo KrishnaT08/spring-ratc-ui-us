@@ -1,0 +1,62 @@
+.form-control {
+	display: inline-block;
+    width: 40%;
+}
+
+.header img {
+	padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.header {
+	border-color: #f2f2f2;
+}
+
+.header span {
+    float: right;
+    font-size: x-large;
+    font-weight: bold;
+    padding-right: 230px;
+    padding-top: 20px;
+}
+
+.inputForm {
+	padding-left: 15%;
+	padding-top: 1%;
+}
+
+.tableContent {
+	padding-top: 2%;
+    width: 80%;
+    margin-left: 5%;
+}
+
+.column {
+	width: 20%;
+}
+
+.editValue {
+	width: 100%;
+}
+
+.dropdown-menu {
+	top: 155%;
+}
+
+.dropdown-toggle {
+	min-width: 160px;
+}
+
+.submit {
+	text-align: center;
+}
+
+.submitBtn {
+	width: 15%;
+	font-weight: bold;
+}
+
+.hidden {
+	display: none;
+}
